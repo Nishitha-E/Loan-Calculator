@@ -1,6 +1,3 @@
-Here's a polished description you can use for your GitHub repository:
-
----
 
 # 💸 Loan Calculator Web Application
 
@@ -37,7 +34,7 @@ This **Loan Calculator** is a user-friendly web application designed to help use
 
 ## 🌟 Demo Screenshot
 
-![Screenshot 2024-12-11 175526](https://github.com/user-attachments/asset**s/32036d64-62e8-4bef-9ed1-b63d5ac0804d)
+![Screenshot 2024-12-11 175526](https://github.com/user-attachments/assets/32036d64-62e8-4bef-9ed1-b63d5ac0804d)
 
 Working example:
 ![Screenshot 2024-12-11 175511](https://github.com/user-attachments/assets/4fb14ffa-95a5-4937-b552-821077c04673)
